@@ -1,5 +1,5 @@
 # TempleF1-10
-## **STILL BUILDING**
+## **NOT BUILDING CURRENTLy**
 #### This is the repository for F1/10 project Version 2017
 
 
